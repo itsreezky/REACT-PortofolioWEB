@@ -17,7 +17,7 @@ function Footer () {
               Have a project?
             </h2>
             <a
-              href="contact.html"
+              href="/REACT-PortofolioWEB/contact"
               className="cs_btn cs_style_1 cs_primary_font"
             >
               <span>

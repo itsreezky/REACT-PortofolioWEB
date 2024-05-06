@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Contact_IconBox () {
+function Contact_Iconbox () {
   return (
     <div>
       {/*Start Iconbox Section*/}
@@ -33,7 +33,7 @@ function Contact_IconBox () {
                     <p className="cs_iconbox_text">Become an industry expert</p>
                     <a
                       className="cs_accent_color_2 cs_accent_color_hover cs_text_btn"
-                      href="/blog"
+                      href="//REACT-PortofolioWEB/blog"
                     >
                       Read Articles
                     </a>
@@ -69,7 +69,7 @@ function Contact_IconBox () {
                     <p className="cs_iconbox_text">Become an industry expert</p>
                     <a
                       className="cs_accent_color_2 cs_accent_color_hover cs_text_btn"
-                      href="#"
+                      href="/REACT-PortofolioWEB/contact"
                     >
                       Check FAQ’s
                     </a>
@@ -117,4 +117,4 @@ function Contact_IconBox () {
   );
 }
 
-export default Contact_IconBox;
+export default Contact_Iconbox;

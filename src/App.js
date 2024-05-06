@@ -22,11 +22,11 @@ function App() {
     <Header />
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/blog" element={<Blog />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/portofolio" element={<Portofolio />} />
+        <Route path="/REACT-PortofolioWEB" element={<Home />} />
+        <Route path="/REACT-PortofolioWEB/about" element={<About />} />
+        <Route path="/REACT-PortofolioWEB/blog" element={<Blog />} />
+        <Route path="/REACT-PortofolioWEB/contact" element={<Contact />} />
+        <Route path="/REACT-PortofolioWEB/portofolio" element={<Portofolio />} />
       </Routes>
     </BrowserRouter>
     <Footer />

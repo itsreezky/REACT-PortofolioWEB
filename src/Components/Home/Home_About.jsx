@@ -6,7 +6,7 @@ function Home_About () {
       {/* Start About Section */}
       <section className="position-relative">
         <div className="position-absolute cs_about_shape_3">
-          <img src="assets/img/about_shape_2.svg" alt />
+          <img src="assets/img/about_shape_2.svg" alt="AboutShape" />
         </div>
         <div className="cs_height_150 cs_height_lg_80" />
         <div className="container">
@@ -101,7 +101,7 @@ responsive web or mobile displays.
                          React.js, Next.js, Angular, Sass/SCSS, CSS, Boostrap, TailwindCSS, TypeScript, Webpack, Babel
                         </span>
                         <a
-                          href="/portofolio"
+                          href="/REACT-PortofolioWEB/portofolio"
                           className="cs_circle_btn cs_style_1 cs_accent_color_2 cs_center rounded-circle"
                         >
                           <svg
@@ -173,7 +173,7 @@ Systems.
                         PHP, Laravel, CodeIgniter, Node.js, MySQL, MongoDB, RESTful APIs,
                         </span>
                         <a
-                          href="/portofolio"
+                          href="/REACT-PortofolioWEB/portofolio"
                           className="cs_circle_btn cs_style_1 cs_accent_color_2 cs_center rounded-circle"
                         >
                           <svg
@@ -244,7 +244,7 @@ Systems.
                           Freelance Projects
                         </span>
                         <a
-                          href="/portofolio"
+                          href="/REACT-PortofolioWEB/portofolio"
                           className="cs_circle_btn cs_style_1 cs_accent_color_2 cs_center rounded-circle"
                         >
                           <svg

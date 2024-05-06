@@ -9,7 +9,7 @@ function About_Hero() {
     <div className="cs_height_45 cs_height_lg_45" />
     <h1 className="cs_hero_title cs_font_92 cs_black wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s"><span className="cs_gradient_text">About </span><span className="cs_gradient_border_text">Me</span></h1>
     <ol className="breadcrumb">
-      <li className="breadcrumb-item"><a href="/">Home</a></li>
+      <li className="breadcrumb-item"><a href="/REACT-PortofolioWEB">Home</a></li>
       <li className="breadcrumb-item active">About</li>
     </ol>
   </div>
