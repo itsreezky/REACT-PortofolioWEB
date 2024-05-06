@@ -61,7 +61,7 @@ function Home_Portofolio () {
                   <img
                     className="cs_zoom_in w-100"
                     src="assets/img/project/Reezky-Server.png"
-                    alt="Reezky Personal Server"
+                    alt
                   />
                 </a>
                 <div className="cs_portfolio_info w-100 cs_white_color cs_medium position-absolute">
@@ -103,12 +103,12 @@ function Home_Portofolio () {
                   <img
                     className="cs_zoom_in w-50"
                     src="assets/img/project/Market01.png"
-                    alt="Market01"
+                    alt
                   />
                   <img
                     className="cs_zoom_in w-50"
                     src="assets/img/project/Market01_dark.png"
-                    alt="Market01 Dark"
+                    alt
                   />
                 </a>
                 <div className="cs_portfolio_info w-100 cs_white_color cs_medium position-absolute">
@@ -150,7 +150,7 @@ function Home_Portofolio () {
                   <img
                     className="cs_zoom_in w-100"
                     src="assets/img/project/Reezky-Tools.png"
-                    alt="Reezky Tools Server"
+                    alt
                   />
                 </a>
                 <div className="cs_portfolio_info w-100 cs_white_color cs_medium position-absolute">
@@ -185,7 +185,7 @@ function Home_Portofolio () {
               >
                 <a
                   className="cs_portfolio_text_btn d-inline-flex cs_gap_25 align-items-center cs_font_24 cs_accent_color cs_semi_bold"
-                  href="/REACT-PortofolioWEB/portofolio"
+                  href="portfolio.html"
                 >
                   <span className="cs_text_btn">View All Project</span>
                   <span className="cs_circle_btn cs_style_1 cs_accent_color cs_center rounded-circle">

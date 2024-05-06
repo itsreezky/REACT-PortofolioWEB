@@ -60,7 +60,7 @@ function Portofolio_Project () {
                   <img
                     className="cs_zoom_in w-100"
                     src="assets/img/project/Reezky-Server.png"
-                    alt="Reezky Personal Server"
+                    alt
                   />
                 </a>
                 <div className="cs_portfolio_info w-100 cs_white_color cs_medium position-absolute">
@@ -102,12 +102,12 @@ function Portofolio_Project () {
                   <img
                     className="cs_zoom_in w-50"
                     src="assets/img/project/Market01.png"
-                    alt="Market01"
+                    alt
                   />
                   <img
                     className="cs_zoom_in w-50"
                     src="assets/img/project/Market01_dark.png"
-                    alt="Market01 Dark"
+                    alt
                   />
                 </a>
                 <div className="cs_portfolio_info w-100 cs_white_color cs_medium position-absolute">
@@ -149,7 +149,7 @@ function Portofolio_Project () {
                   <img
                     className="cs_zoom_in w-100"
                     src="assets/img/project/Reezky-Tools.png"
-                    alt="Reezky Tools"
+                    alt
                   />
                 </a>
                 <div className="cs_portfolio_info w-100 cs_white_color cs_medium position-absolute">

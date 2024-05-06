@@ -74,7 +74,7 @@ function Home_Thanks () {
                     <img
                       className="cs_brand_logo"
                       src="https://www.nexoid.com/technology/reactjs/react_js_logo.webp"
-                      alt="React.js"
+                      alt
                     />
                   </div>
                   <p className="m-0 cs_white_bg">React.js</p>
@@ -87,7 +87,7 @@ function Home_Thanks () {
                     <img
                       className="cs_brand_logo"
                       src="https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png"
-                      alt="Next.js"
+                      alt
                     />
                   </div>
                   <p className="m-0 cs_white_bg">Next.js</p>
@@ -97,7 +97,7 @@ function Home_Thanks () {
                     <img
                       className="cs_brand_logo"
                       src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/144231501/original/cbe5540c07b1bafa824995eae586a8e704affc67/be-your-perfect-php-laravel-developer.jpg"
-                      alt="Laravel"
+                      alt
                     />
                   </div>
                   <p className="m-0 cs_white_bg">Laravel</p>
@@ -107,7 +107,7 @@ function Home_Thanks () {
                     <img
                       className="cs_brand_logo"
                       src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png"
-                      alt="Tailwind CSS"
+                      alt
                     />
                   </div>
                   <p className="m-0 cs_white_bg">Tailwind CSS</p>

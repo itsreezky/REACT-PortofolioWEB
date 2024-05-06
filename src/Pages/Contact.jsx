@@ -1,6 +1,6 @@
 import React from 'react';
 import Contact_Hero from '../Components/Contact/Contact_Hero';
-import Contact_Iconbox from '../Components/Contact/Contact_Iconbox';
+import Contact_IconBox from '../Components/Contact/Contact_IconBox';
 import Contact_Form from '../Components/Contact/Contact_Form';
 
 function Contact () {
@@ -10,7 +10,7 @@ function Contact () {
       <main>
 
         <Contact_Hero />
-        <Contact_Iconbox />
+        <Contact_IconBox />
         <Contact_Form />
 
       </main>

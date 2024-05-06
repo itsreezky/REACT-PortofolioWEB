@@ -58,7 +58,7 @@ function Home_Blog () {
             <div className="cs_blog cs_style_3 cs_transition_3 cs_white_bg cs_radius_20 cs_transform_up_hover_3">
               <div className="cs_blog_in">
                 <div className="cs_blog_thumbnail cs_zoom">
-                  <a href="/REACT-PortofolioWEB/blog">
+                  <a href="#">
                     <img
                       className="cs_zoom_in w-100"
                       src="assets/img/blog/blog_4.jpg"
@@ -70,7 +70,7 @@ function Home_Blog () {
                   <h3 className="cs_blog_title cs_font_28">
                     <a
                       className="cs_accent_color_2_hover"
-                      href="/REACT-PortofolioWEB/blog"
+                      href="#"
                     >
                       The Easiest Way to
                       Become a Developer
@@ -89,7 +89,7 @@ function Home_Blog () {
                       </div>
                     </div>
                     <a
-                      href="/REACT-PortofolioWEB/blog"
+                      href="#"
                       className="cs_circle_btn cs_style_1 cs_type_1 cs_accent_color_2 cs_center rounded-circle"
                     >
                       <svg
@@ -142,18 +142,18 @@ function Home_Blog () {
               </div>
             </div>
             <div className="cs_blog cs_style_2 cs_transition_4">
-              <a href="/REACT-PortofolioWEB/blog" className="cs_blog_thumbnail cs_zoom">
+              <a href="#" className="cs_blog_thumbnail cs_zoom">
                 <img
                   className="cs_zoom_in w-100 h-100"
                   src="assets/img/blog/blog_2.jpg"
-                  alt="blog2"
+                  alt
                 />
               </a>
               <div className="cs_blog_info">
                 <h2 className="cs_blog_title cs_font_20 cs_semi_bold">
                   <a
                     className="cs_accent_color_2_hover"
-                    href="/REACT-PortofolioWEB/blog"
+                    href="#"
                   >
                     How to
                     design a user-centric mobile application?
@@ -171,7 +171,7 @@ function Home_Blog () {
                   </div>
                 </div>
                 <a
-                  href="/REACT-PortofolioWEB/blog"
+                  href="#"
                   className="cs_circle_btn cs_style_1 cs_type_1 cs_accent_color_2 cs_center rounded-circle"
                 >
                   <svg
@@ -222,18 +222,18 @@ function Home_Blog () {
               </div>
             </div>
             <div className="cs_blog cs_style_2 cs_transition_4">
-              <a href="/REACT-PortofolioWEB/blog" className="cs_blog_thumbnail cs_zoom">
+              <a href="#" className="cs_blog_thumbnail cs_zoom">
                 <img
                   className="cs_zoom_in w-100 h-100"
                   src="assets/img/blog/blog_3.jpg"
-                  alt="blog3"
+                  alt
                 />
               </a>
               <div className="cs_blog_info">
                 <h2 className="cs_blog_title cs_font_20 cs_semi_bold">
                   <a
                     className="cs_accent_color_2_hover"
-                    href="/REACT-PortofolioWEB/blog"
+                    href="#"
                   >
                     The
                     Easiest Way to Become a Developer
@@ -251,7 +251,7 @@ function Home_Blog () {
                   </div>
                 </div>
                 <a
-                  href="/REACT-PortofolioWEB/blog"
+                  href="#"
                   className="cs_circle_btn cs_style_1 cs_type_1 cs_accent_color_2 cs_center rounded-circle"
                 >
                   <svg
@@ -302,18 +302,18 @@ function Home_Blog () {
               </div>
             </div>
             <div className="cs_blog cs_style_2 cs_transition_4">
-              <a href="/REACT-PortofolioWEB/blog" className="cs_blog_thumbnail cs_zoom">
+              <a href="#" className="cs_blog_thumbnail cs_zoom">
                 <img
                   className="cs_zoom_in w-100 h-100"
                   src="assets/img/blog/blog_1.jpg"
-                  alt="blog1"
+                  alt
                 />
               </a>
               <div className="cs_blog_info">
                 <h2 className="cs_blog_title cs_font_20 cs_semi_bold">
                   <a
                     className="cs_accent_color_2_hover"
-                    href="/REACT-PortofolioWEB/blog"
+                    href="#"
                   >
                     How to
                     design a user-centric mobile application?
@@ -331,7 +331,7 @@ function Home_Blog () {
                   </div>
                 </div>
                 <a
-                  href="/REACT-PortofolioWEB/blog"
+                  href="#"
                   className="cs_circle_btn cs_style_1 cs_type_1 cs_accent_color_2 cs_center rounded-circle"
                 >
                   <svg

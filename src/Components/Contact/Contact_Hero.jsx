@@ -18,7 +18,7 @@ function Contact_Hero () {
             <span className="cs_gradient_text_2">Contact Us</span>
           </h1>
           <ol className="breadcrumb">
-            <li className="breadcrumb-item"><a href="/REACT-PortofolioWEB">Home</a></li>
+            <li className="breadcrumb-item"><a href="/">Home</a></li>
             <li className="breadcrumb-item active">Contact</li>
           </ol>
         </div>
