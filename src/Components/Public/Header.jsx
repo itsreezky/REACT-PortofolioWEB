@@ -22,8 +22,6 @@ function Header() {
               </li>
               <li className="menu-item-has-children"><a href="/portofolio">Portfolio</a>
               </li>
-              <li className="menu-item-has-children"><a href="/pages">Pages</a>
-              </li>
               <li className="menu-item-has-children"><a href="/blog">Blog</a>
               </li>
               <li> <a href="/contact">Contact</a></li>
