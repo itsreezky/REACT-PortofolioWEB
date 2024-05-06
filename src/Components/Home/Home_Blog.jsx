@@ -38,9 +38,9 @@ function Home_Blog () {
               <div className="cs_height_25 cs_height_lg_25" />
               <a
                 className="d-inline-flex cs_gap_15 align-items-center text-uppercase cs_letter_spacing_15 cs_font_16 cs_accent_color"
-                href="blog.html"
+                href="/blog"
               >
-                <span className="cs_text_btn">View All Project</span>
+                <span className="cs_text_btn">View All Article</span>
                 <svg
                   width={5}
                   height={9}
@@ -58,7 +58,7 @@ function Home_Blog () {
             <div className="cs_blog cs_style_3 cs_transition_3 cs_white_bg cs_radius_20 cs_transform_up_hover_3">
               <div className="cs_blog_in">
                 <div className="cs_blog_thumbnail cs_zoom">
-                  <a href="#">
+                  <a href="/blog">
                     <img
                       className="cs_zoom_in w-100"
                       src="assets/img/blog/blog_4.jpg"
@@ -70,7 +70,7 @@ function Home_Blog () {
                   <h3 className="cs_blog_title cs_font_28">
                     <a
                       className="cs_accent_color_2_hover"
-                      href="#"
+                      href="/blog"
                     >
                       The Easiest Way to
                       Become a Developer
@@ -89,7 +89,7 @@ function Home_Blog () {
                       </div>
                     </div>
                     <a
-                      href="#"
+                      href="/blog"
                       className="cs_circle_btn cs_style_1 cs_type_1 cs_accent_color_2 cs_center rounded-circle"
                     >
                       <svg
@@ -142,7 +142,7 @@ function Home_Blog () {
               </div>
             </div>
             <div className="cs_blog cs_style_2 cs_transition_4">
-              <a href="#" className="cs_blog_thumbnail cs_zoom">
+              <a href="/blog" className="cs_blog_thumbnail cs_zoom">
                 <img
                   className="cs_zoom_in w-100 h-100"
                   src="assets/img/blog/blog_2.jpg"
@@ -153,7 +153,7 @@ function Home_Blog () {
                 <h2 className="cs_blog_title cs_font_20 cs_semi_bold">
                   <a
                     className="cs_accent_color_2_hover"
-                    href="#"
+                    href="/blog"
                   >
                     How to
                     design a user-centric mobile application?
@@ -171,7 +171,7 @@ function Home_Blog () {
                   </div>
                 </div>
                 <a
-                  href="#"
+                  href="/blog"
                   className="cs_circle_btn cs_style_1 cs_type_1 cs_accent_color_2 cs_center rounded-circle"
                 >
                   <svg
@@ -222,7 +222,7 @@ function Home_Blog () {
               </div>
             </div>
             <div className="cs_blog cs_style_2 cs_transition_4">
-              <a href="#" className="cs_blog_thumbnail cs_zoom">
+              <a href="/blog" className="cs_blog_thumbnail cs_zoom">
                 <img
                   className="cs_zoom_in w-100 h-100"
                   src="assets/img/blog/blog_3.jpg"
@@ -233,7 +233,7 @@ function Home_Blog () {
                 <h2 className="cs_blog_title cs_font_20 cs_semi_bold">
                   <a
                     className="cs_accent_color_2_hover"
-                    href="#"
+                    href="/blog"
                   >
                     The
                     Easiest Way to Become a Developer
@@ -251,7 +251,7 @@ function Home_Blog () {
                   </div>
                 </div>
                 <a
-                  href="#"
+                  href="/blog"
                   className="cs_circle_btn cs_style_1 cs_type_1 cs_accent_color_2 cs_center rounded-circle"
                 >
                   <svg
@@ -302,7 +302,7 @@ function Home_Blog () {
               </div>
             </div>
             <div className="cs_blog cs_style_2 cs_transition_4">
-              <a href="#" className="cs_blog_thumbnail cs_zoom">
+              <a href="/blog" className="cs_blog_thumbnail cs_zoom">
                 <img
                   className="cs_zoom_in w-100 h-100"
                   src="assets/img/blog/blog_1.jpg"
@@ -313,7 +313,7 @@ function Home_Blog () {
                 <h2 className="cs_blog_title cs_font_20 cs_semi_bold">
                   <a
                     className="cs_accent_color_2_hover"
-                    href="#"
+                    href="/blog"
                   >
                     How to
                     design a user-centric mobile application?
@@ -331,7 +331,7 @@ function Home_Blog () {
                   </div>
                 </div>
                 <a
-                  href="#"
+                  href="/blog"
                   className="cs_circle_btn cs_style_1 cs_type_1 cs_accent_color_2 cs_center rounded-circle"
                 >
                   <svg

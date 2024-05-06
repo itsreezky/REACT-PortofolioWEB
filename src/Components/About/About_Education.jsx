@@ -18,7 +18,7 @@ function About_Education() {
         </div>
         <div className="align-self-end">
           <div className="cs_height_25 cs_height_lg_25" />
-          <a className="cs_portfolio_text_btn d-inline-flex cs_gap_25 align-items-center cs_font_24 cs_accent_color cs_semi_bold" href="contact.html">
+          <a className="cs_portfolio_text_btn d-inline-flex cs_gap_25 align-items-center cs_font_24 cs_accent_color cs_semi_bold" href="/contact">
             <span className="cs_text_btn">Hire Me</span>
             <span className="cs_circle_btn cs_style_1 cs_accent_color cs_center rounded-circle">
               <svg width={15} height={15} viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">

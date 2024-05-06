@@ -12,7 +12,7 @@ function About_Desc () {
               <div className="cs_pr_65">
                 <div className="cs_image_box cs_style_3 position-relative">
                   <div className="cs_imagebox_shape_about_2 position-absolute">
-                    <img src="assets/img/about_shape_3.svg" alt />
+                    <img src="assets/img/about_shape_3.svg" alt="AboutShape3" />
                   </div>
                   <div className="cs_image_wrap cs_radius_20 overflow-hidden">
                     <img
@@ -58,7 +58,7 @@ function About_Desc () {
                   <li>
                     <p className="m-0 text-capitalize">Education</p>
                     <h5 className="cs_font_20 m-0 cs_semi_bold">
-                    Student Majoring in Informatics Engineering at Siliwangi University
+                      Student Majoring in Informatics Engineering at Siliwangi University
                     </h5>
                   </li>
                   <li>
@@ -68,7 +68,9 @@ function About_Desc () {
                       data-wow-duration="0.8s"
                       data-wow-delay="0.2s"
                     >
-                     <a href="mailto:hello@itsreezky.my.id"> hello@itsreezky.my.id</a>
+                      <a href="mailto:hello@itsreezky.my.id">
+                        {' '}hello@itsreezky.my.id
+                      </a>
                     </h5>
                   </li>
                 </ul>

@@ -185,7 +185,7 @@ function Home_Portofolio () {
               >
                 <a
                   className="cs_portfolio_text_btn d-inline-flex cs_gap_25 align-items-center cs_font_24 cs_accent_color cs_semi_bold"
-                  href="portfolio.html"
+                  href="/portofolio"
                 >
                   <span className="cs_text_btn">View All Project</span>
                   <span className="cs_circle_btn cs_style_1 cs_accent_color cs_center rounded-circle">

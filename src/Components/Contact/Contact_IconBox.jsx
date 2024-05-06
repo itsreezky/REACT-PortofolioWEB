@@ -69,7 +69,7 @@ function Contact_IconBox () {
                     <p className="cs_iconbox_text">Become an industry expert</p>
                     <a
                       className="cs_accent_color_2 cs_accent_color_hover cs_text_btn"
-                      href="#"
+                      href="/contact"
                     >
                       Check FAQ’s
                     </a>
