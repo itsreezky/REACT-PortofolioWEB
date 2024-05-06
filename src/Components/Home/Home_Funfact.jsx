@@ -11,7 +11,9 @@ function Home_Funfact() {
           />
           <div className="container">
             <div className="row cs_gap_40">
-              <div className="col-lg-4 cs_mt_40">
+              <div className="col-lg-4 cs_mt_40 wow bounce"
+                                              data-wow-duration="2.8s"
+                                              data-wow-delay="0.2s">
                 <div className="cs_funfact cs_style_2 text-center">
                   <div
                     className="cs_funfact_in cs_filled_bg"
@@ -100,7 +102,9 @@ Appreciation Certificate. (2019)
                   </div>
                 </div>
               </div>
-              <div className="col-lg-4 cs_mt_40">
+              <div className="col-lg-4 cs_mt_40 wow bounce"
+                                              data-wow-duration="3.8s"
+                                              data-wow-delay="0.2s">
                 <div className="cs_funfact cs_style_2 text-center">
                   <div
                     className="cs_funfact_in cs_filled_bg"
@@ -189,7 +193,9 @@ Appreciation Certificate. (2019)
                   </div>
                 </div>
               </div>
-              <div className="col-lg-4 cs_mt_40">
+              <div className="col-lg-4 cs_mt_40 wow bounce"
+                                              data-wow-duration="4.8s"
+                                              data-wow-delay="0.2s">
                 <div className="cs_funfact cs_style_2 text-center">
                   <div
                     className="cs_funfact_in cs_filled_bg"

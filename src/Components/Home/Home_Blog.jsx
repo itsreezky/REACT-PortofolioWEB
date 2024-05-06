@@ -7,7 +7,9 @@ function Home_Blog () {
       <section className="cs_filled_bg" data-src="assets/img/bg/blog_bg_2.png">
         <div className="cs_height_145 cs_height_lg_75" />
         <div className="container">
-          <div className="d-md-flex justify-content-between">
+          <div className="d-md-flex justify-content-between wow fadeInLeft"
+                                          data-wow-duration="1.8s"
+                                          data-wow-delay="0.2s">
             <div className="cs_section_heading cs_style_1">
               <p
                 className="cs_section_subtitle cs_accent_color_2 cs_font_16 wow fadeInLeft"
@@ -53,7 +55,7 @@ function Home_Blog () {
               </a>
             </div>
           </div>
-          <div className="cs_height_70 cs_height_lg_30" />
+          <div className="cs_height_70 cs_height_lg_30"/>
           <div className="cs_blog_group_1">
             <div className="cs_blog cs_style_3 cs_transition_3 cs_white_bg cs_radius_20 cs_transform_up_hover_3">
               <div className="cs_blog_in">

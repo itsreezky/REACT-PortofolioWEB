@@ -5,21 +5,22 @@ function Home_Hero () {
     <div>
       {/* Start Hero Section */}
       <section
-        className="cs_hero cs_style_2 cs_filled_bg"
+        className="cs_hero cs_style_2 cs_filled_bg wow fadeIn"
+        data-wow-duration="2.8s"
+        data-wow-delay="0.7s"
         data-src="assets/img/bg/hero_bg_2.svg"
       >
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
-              <div className="cs_hero_info cs_pr_20">
+              <div className="cs_hero_info cs_pr_20 wow fadeInLeft"
+                                data-wow-duration="2.8s"
+                                data-wow-delay="0.7s">
                 <h4 className="cs_hero_meta cs_font_48 cs_white_blue_text_2 cs_semi_bold cs_primary_font mb-0">
                   Greetings! I'm <br />
                 </h4>
                 <h1
-                  className="cs_hero_title cs_font_92 cs_black wow fadeInLeft"
-                  data-wow-duration="0.8s"
-                  data-wow-delay="0.2s"
-                >
+                  className="cs_hero_title cs_font_92 cs_black">
                   <span className="cs_gradient_text">Muhammad </span>
                   <span className="cs_gradient_border_text">Rizki</span>
                 </h1>
@@ -180,7 +181,9 @@ systems from various personal
                 data-src="assets/img/bg/hero_bg_3.svg"
               >
                 <div className="cs_imagebox_img w-100">
-                  <img
+                  <img className='wow fadeInRightBig'
+                   data-wow-duration="2.5s"
+                   data-wow-delay="1.7s"
                     src="assets/img/reezky/reezky_formal2.png"
                     alt="heroImg"
                   />

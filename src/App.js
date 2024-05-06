@@ -14,6 +14,8 @@ import Loader from './Components/Public/Loader'
 import Header from './Components/Public/Header'
 import Footer from './Components/Public/Footer'
 
+//Import 404 Page
+import NotFoundPage from './404';
 
 function App() {
   return (
@@ -27,6 +29,7 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/portofolio" element={<Portofolio />} />
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </BrowserRouter>
     <Footer />

@@ -35,7 +35,9 @@ function Home_About () {
                       />
                     </svg>
                   </p>
-                  <h2 className="cs_section_title cs_font_48 cs_semi_bold">
+                  <h2 className="cs_section_title cs_font_48 cs_semi_bold wow fadeInLeft"
+                                      data-wow-duration="0.8s"
+                                      data-wow-delay="0.2s">
                     Why you <span className="cs_accent_color">
                       hire me
                     </span>
@@ -46,7 +48,9 @@ function Home_About () {
                   </h2>
                 </div>
                 <div className="cs_height_40 cs_height_lg_30" />
-                <p className="m-0">
+                <p className="m-0 wow fadeInLeft"
+                             data-wow-duration="2.8s"
+                             data-wow-delay="0.7s">
                   Are you looking for a versatile and proactive programmer to join your team? Here are compelling reasons why I am the ideal candidate:
 
                   <p className="cs_accent_color_2">
@@ -74,7 +78,9 @@ function Home_About () {
                   {' '}
                 </p>
                 <div className="cs_height_25 cs_height_lg_20" />
-                <a className="cs_btn cs_style_1" href="mailto:hello@itsreezky.my.id">
+                <a className="cs_btn cs_style_1 wow fadeInLeft"
+                             data-wow-duration="2.8s"
+                             data-wow-delay="0.7s" href="mailto:hello@itsreezky.my.id">
                   <span>Hire Me</span>
                 </a>
               </div>
@@ -82,12 +88,14 @@ function Home_About () {
             </div>
             <div className="col-lg-6">
               <div className="cs_pl_70">
-                <div className="cs_iconbox cs_style_2 cs_radius_20 cs_transition_4">
+                {/* FRONT END */}
+                <div className="cs_iconbox cs_style_2 cs_radius_20 cs_transition_4 wow bounceInRight"
+                 data-wow-duration="2.8s"
+                 data-wow-delay="0.7s">
                   <div className="cs_iconbox_in">
                     <div className="cs_iconbox_icon cs_center">
                       <img src="assets/img/icon/about_icon_1.svg" alt="Icon" />
                     </div>
-                    {/* FRONT END */}
                     <div className="cs_iconbox_info position-relative w-100">
                       <h3 className="cs_iconbox_title cs_font_28 cs_medium m-0">
                         Front-end
@@ -154,7 +162,9 @@ responsive web or mobile displays.
                   </div>
                 </div>
                 {/* BACK END */}
-                <div className="cs_iconbox cs_style_2 cs_radius_20 cs_transition_4">
+                <div className="cs_iconbox cs_style_2 cs_radius_20 cs_transition_4 wow bounceInRight"
+                  data-wow-duration="3.8s"
+                  data-wow-delay="0.7s">
                   <div className="cs_iconbox_in">
                     <div className="cs_iconbox_icon cs_center">
                       <img src="assets/img/icon/about_icon_2.svg" alt="Icon" />
@@ -226,7 +236,9 @@ Systems.
                   </div>
                 </div>
                 {/* FULLSTACK */}
-                <div className="cs_iconbox cs_style_2 cs_radius_20 cs_transition_4">
+                <div className="cs_iconbox cs_style_2 cs_radius_20 cs_transition_4 wow bounceInRight"
+                  data-wow-duration="4.8s"
+                  data-wow-delay="0.7s">
                   <div className="cs_iconbox_in">
                     <div className="cs_iconbox_icon cs_center">
                       <img src="assets/img/icon/about_icon_3.svg" alt="Icon" />

@@ -12,14 +12,15 @@ function Home_Portofolio () {
         <div className="container">
           <div className="cs_isotop cs_isotop_col_2 cs_has_gutter_80">
             <div className="cs_grid_sizer" />
-            <div className="cs_isotop_item">
+            {/* My Latest Awesome Project */}
+            <div
+              className="cs_isotop_item wow fadeInLeft"
+              data-wow-duration="1.8s"
+              data-wow-delay="0.2s"
+            >
               <div className="cs_portfolio cs_style_2">
                 <div className="cs_section_heading cs_style_1">
-                  <p
-                    className="cs_section_subtitle cs_accent_color_2 cs_font_16 wow fadeInRight"
-                    data-wow-duration="0.8s"
-                    data-wow-delay="0.2s"
-                  >
+                  <p className="cs_section_subtitle cs_accent_color_2 cs_font_16">
                     <span>Portfolio</span>
                     <svg
                       width={20}
@@ -36,7 +37,11 @@ function Home_Portofolio () {
                       />
                     </svg>
                   </p>
-                  <h2 className="cs_section_title cs_font_48 cs_semi_bold">
+                  <h2
+                    className="cs_section_title cs_font_48 cs_semi_bold wow fadeInLeft"
+                    data-wow-duration="0.8s"
+                    data-wow-delay="0.2s"
+                  >
                     My latest
                     <br />
                     awesome
@@ -46,7 +51,12 @@ function Home_Portofolio () {
                 </div>
               </div>
             </div>
-            <div className="cs_isotop_item">
+            {/* Reezky Server */}
+            <div
+              className="cs_isotop_item wow bounceInRight"
+              data-wow-duration="3.8s"
+              data-wow-delay="0.7s"
+            >
               <div className="cs_portfolio cs_style_2 cs_radius_20 position-relative">
                 <div className="cs_browser cs_style_1">
                   <div className="cs_btns">
@@ -88,7 +98,12 @@ function Home_Portofolio () {
                 </div>
               </div>
             </div>
-            <div className="cs_isotop_item">
+            {/* Autocars RENT */}
+            <div
+              className="cs_isotop_item wow bounceInLeft"
+              data-wow-duration="2.8s"
+              data-wow-delay="0.7s"
+            >
               <div className="cs_portfolio cs_style_2 cs_radius_20 position-relative">
                 <div className="cs_browser cs_style_1">
                   <div className="cs_btns">
@@ -135,7 +150,12 @@ function Home_Portofolio () {
                 </div>
               </div>
             </div>
-            <div className="cs_isotop_item">
+            {/* Tools Reezky Server */}
+            <div
+              className="cs_isotop_item wow bounceInRight"
+              data-wow-duration="4.8s"
+              data-wow-delay="0.7s"
+            >
               <div className="cs_portfolio cs_style_2 cs_radius_20 position-relative">
                 <div className="cs_browser cs_style_1">
                   <div className="cs_btns">
@@ -177,6 +197,7 @@ function Home_Portofolio () {
                 </div>
               </div>
             </div>
+            {/* View ALl Project */}
             <div className="cs_isotop_item">
               <div
                 className="cs_portfolio cs_style_2 text-center cs_radius_20 overflow-hidden wow fadeInUp"

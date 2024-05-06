@@ -8,7 +8,9 @@ function Home_Thanks () {
         <div className="cs_height_150 cs_height_lg_80" />
         <div className="container">
           <div className="row">
-            <div className="col-lg-4">
+            <div className="col-lg-4 wow fadeInLeft"
+                                            data-wow-duration="1.8s"
+                                            data-wow-delay="0.7s">
               <div className="cs_section_heading cs_style_1">
                 <p
                   className="cs_section_subtitle cs_accent_color_2 cs_font_16 wow fadeInLeft"
@@ -49,7 +51,9 @@ function Home_Thanks () {
             </div>
             <div className="col-lg-7 offset-lg-1">
               <div className="cs_brands cs_style_1 cs_ml_30">
-                <div className="cs_brand overflow-hidden cs_radius_10 text-center">
+                <div className="cs_brand overflow-hidden cs_radius_10 text-center wow fadeIn"
+                                                data-wow-duration="2.8s"
+                                                data-wow-delay="1.0s">
                   <div className="cs_brand_logo_wrap cs_center cs_brand_bg_1">
                     <img
                       className="cs_brand_logo"
@@ -59,7 +63,9 @@ function Home_Thanks () {
                   </div>
                   <p className="m-0 cs_white_bg">Font Awesome</p>
                 </div>
-                <div className="cs_brand overflow-hidden cs_radius_10 text-center">
+                <div className="cs_brand overflow-hidden cs_radius_10 text-center wow fadeIn"
+                                                data-wow-duration="2.8s"
+                                                data-wow-delay="1.5s">
                   <div className="cs_brand_logo_wrap cs_center cs_brand_bg_2">
                     <img
                       className="cs_brand_logo"
@@ -69,7 +75,9 @@ function Home_Thanks () {
                   </div>
                   <p className="m-0 cs_white_bg">Boostrap</p>
                 </div>
-                <div className="cs_brand overflow-hidden cs_radius_10 text-center">
+                <div className="cs_brand overflow-hidden cs_radius_10 text-center wow fadeIn"
+                                                data-wow-duration="2.8s"
+                                                data-wow-delay="2.0s">
                   <div className="cs_brand_logo_wrap cs_center cs_brand_bg_3">
                     <img
                       className="cs_brand_logo"
@@ -82,7 +90,9 @@ function Home_Thanks () {
               </div>
               <div className="cs_height_50 cs_height_lg_30" />
               <div className="cs_brands cs_style_1 cs_mr_30">
-                <div className="cs_brand overflow-hidden cs_radius_10 text-center">
+                <div className="cs_brand overflow-hidden cs_radius_10 text-center wow fadeIn"
+                                                data-wow-duration="2.8s"
+                                                data-wow-delay="2.5s">
                   <div className="cs_brand_logo_wrap cs_center cs_brand_bg_4">
                     <img
                       className="cs_brand_logo"
@@ -92,7 +102,9 @@ function Home_Thanks () {
                   </div>
                   <p className="m-0 cs_white_bg">Next.js</p>
                 </div>
-                <div className="cs_brand overflow-hidden cs_radius_10 text-center">
+                <div className="cs_brand overflow-hidden cs_radius_10 text-center wow fadeIn"
+                                                data-wow-duration="2.8s"
+                                                data-wow-delay="3.0s">
                   <div className="cs_brand_logo_wrap cs_center cs_brand_bg_5">
                     <img
                       className="cs_brand_logo"
@@ -102,7 +114,9 @@ function Home_Thanks () {
                   </div>
                   <p className="m-0 cs_white_bg">Laravel</p>
                 </div>
-                <div className="cs_brand overflow-hidden cs_radius_10 text-center">
+                <div className="cs_brand overflow-hidden cs_radius_10 text-center wow fadeIn"
+                                                data-wow-duration="2.8s"
+                                                data-wow-delay="3.5s">
                   <div className="cs_brand_logo_wrap cs_center cs_brand_bg_6">
                     <img
                       className="cs_brand_logo"
