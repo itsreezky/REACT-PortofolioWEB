@@ -4,16 +4,16 @@
 
 Greetings! I'm Reezky (Muhammad Rizki), a proficient web and application developer with a diverse skill set. My expertise spans a range of programming languages and technologies, allowing me to craft dynamic and engaging digital solutions.
 
-<p align="center"><a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/ReezkyIconROrange.png" width="50" alt="Autocars Logo"></a><b>REACT - PortofolioWEB</b></p>
+<p align="center"><a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/autocars/ReezkyIconROrange.png" width="50" alt="Autocars Logo"></a><b>REACT - PortofolioWEB</b></p>
 <p align="center"><b>Responsive Web & Mobile Personal Portofolio or Personal Project</b></p>
 <p align="center"><a href="https://demo.itsreezky.my.id/REACT-PortofolioWEB/">( DEMO VIEW )</a></p>
 
 ## Screenshoot
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/portofolioweb/Home_Portofolio.png" width="250" alt="Home Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/portofolioweb/Blog_Portofolio.png" width="450" alt="BLog Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/portofolioweb/About_Portofolio.png" width="250" alt="About Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/portofolioweb/Project_Portofolio.png" width="470" alt="Project Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/portofolioweb/Contact_Portofolio.png" width="520" alt="Contact Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/portofolioweb/Home_Portofolio.png" width="250" alt="Home Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/portofolioweb/Blog_Portofolio.png" width="450" alt="BLog Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/portofolioweb/About_Portofolio.png" width="250" alt="About Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/portofolioweb/Project_Portofolio.png" width="470" alt="Project Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/portofolioweb/Contact_Portofolio.png" width="520" alt="Contact Page"></a>
 
 
 # Getting Started with Create React App
